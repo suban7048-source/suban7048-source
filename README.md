@@ -24,20 +24,17 @@ I build where low-level systems meet high-performance software—crafting effici
 
 ## Skills & Technologies
 
-go,cpp,c,py,godot,unity,unreal,nodejs,linux,git,github,cmake,sqlite,opencv,java,html,css,js,discord
+[![My Skills](https://skillicons.dev/icons?i=go,cpp,c,py,godot,unity,unreal,nodejs,linux,git,github,cmake,sqlite,opencv,java,html,css,js,discord&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [GO-FOR-SUBAN](https://github.com/suban7048-source/GO-FOR-SUBAN) 🔗
-  - Description: No description provided. 
-  - Stars: 0 | Forks: 0 | Watchers: 0 | Open issues: 0
-  - Primary language: Not specified
 
-Notes:
-- This repository is the primary public project in the account. If you'd like, pin repositories or add descriptions to highlight technologies and goals. If you have private or organization work, consider showcasing notable contributions here.
+
+
+
+
 
 ## GitHub Stats
-
 ### Key stats
 
 - Public repositories: **1**
@@ -49,6 +46,7 @@ Notes:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suban7048-source&show_icons=true&theme=default)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suban7048-source&layout=compact&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suban7048-source&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -63,5 +61,3 @@ No blog posts or external articles were found for this user.
 If you have a personal blog or articles, add the link to your profile (the `blog` field) and include your recent posts here.
 
 ## Connect with Me
-
-{}
