@@ -52,12 +52,12 @@ I build where low-level systems meet high-performance software—crafting effici
 
 There are no public recent activity events available to display. 
 
-If you'd like recent events shown here, make some public commits, open issues, or contribute to repositories — those will appear as activity on your profile.
+
 
 ## Latest Blog Posts
 
 No blog posts or external articles were found for this user.
 
-If you have a personal blog or articles, add the link to your profile (the `blog` field) and include your recent posts here.
+
 
 ## Connect with Me
