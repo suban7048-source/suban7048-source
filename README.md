@@ -24,7 +24,7 @@ I build where low-level systems meet high-performance software—crafting effici
 
 ## Skills & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=go,cpp,c,py,godot,unity,unreal,nodejs,linux,git,github,cmake,sqlite,mysql,opencv,java,html,css,js,discord,react,ts,docker,vscode&perline=8)
+![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,mysql,go,c,cpp,react,nodejs,github,discord,git,linux,sqlite,cmake,docker,vscode,opencv,godot,unity,unreal,typescript&perline=8)
 ## Top Projects
 
 
