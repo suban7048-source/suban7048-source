@@ -40,12 +40,11 @@ I build where low-level systems meet high-performance software—crafting effici
 - Followers: **1**
 - Following: **1**
 
-### GitHub cards
+### GitHub Cards
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suban7048-source&show_icons=true&theme=default)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suban7048-source&layout=compact&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suban7048-source&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
