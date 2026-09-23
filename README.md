@@ -2,7 +2,7 @@
 
 🚀 Backend Developer | Game & Physics Engine Enthusiast
 
-Hi, I'm Suban from Chennai.
+Hi, I'm Suban V from Chennai.
 
 I'm passionate about building high-performance backend systems, low-level programming, and game engine development. From optimizing memory and system architecture to creating realistic physics simulations, I enjoy solving complex engineering challenges with clean, efficient code.
 
@@ -36,7 +36,7 @@ I build where low-level systems meet high-performance software—crafting effici
 ## GitHub Stats
 ### Key stats
 
-- Public repositories: **1**
+- Public repositories: **5**
 - Followers: **1**
 - Following: **1**
 
